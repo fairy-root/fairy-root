@@ -1,7 +1,5 @@
 ![Custom Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-![Animated Intro GIF](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
-
 ## Fairy Root
 
 I'm deeply involved in the cybersecurity realm, specializing in uncovering and mitigating vulnerabilities. My toolkit is extensive, covering everything from Python and Java to advanced penetration testing, reverse engineering, and the nitty-gritty of Smali and assembly languages.
@@ -30,3 +28,5 @@ My journey is fueled by relentless curiosity and the continuous pursuit of knowl
   <a href="https://t.me/FairyRoot"><img alt="Telegram" src="https://media.tenor.com/9ZsRZ-PXPlwAAAAi/telegram-gif.gif" width="40" height="40"/></a>
   <!-- Add more animated social icons accordingly -->
 </p>
+
+![Animated Intro GIF](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
