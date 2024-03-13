@@ -2,7 +2,7 @@
 
 ![Animated Intro GIF](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
 
-## 🚀 Hi there, I'm [Fairy Root]!
+## Fairy Root
 
 I'm deeply involved in the cybersecurity realm, specializing in uncovering and mitigating vulnerabilities. My toolkit is extensive, covering everything from Python and Java to advanced penetration testing, reverse engineering, and the nitty-gritty of Smali and assembly languages.
 
