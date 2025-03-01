@@ -1,32 +1,57 @@
 ![Custom Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-## Fairy Root
+# Fairy Root
 
-I'm deeply involved in the cybersecurity realm, specializing in uncovering and mitigating vulnerabilities. My toolkit is extensive, covering everything from Python and Java to advanced penetration testing, reverse engineering, and the nitty-gritty of Smali and assembly languages.
+Welcome to my GitHub corner! I'm a cybersecurity researcher and developer passionate about uncovering vulnerabilities and building robust, innovative tools. Whether I’m performing advanced penetration testing, reverse engineering software, or integrating AI-driven workflows into creative projects, I love pushing the boundaries of technology.
 
-## 💻 Cybersecurity Expertise
-- **Penetration Testing**: Skilled in identifying and exploiting vulnerabilities using tools like Burp Suite, Fiddler, and HTTP Debugger.
-- **Reverse Engineering**: Proficient in deconstructing and analyzing software to understand its design and operation, using tools like Radare2 and Frida framework.
+## 🚀 Featured Projects
+
+Explore some of my key projects:
+
+- [**Flux Prompt Generator**](https://github.com/fairy-root/Flux-Prompt-Generator) – A flexible prompt generator for creating detailed and creative prompts for image generation models.
+- [**ComfyUI Ollama LLMs**](https://github.com/fairy-root/comfyui-ollama-llms) – Custom nodes that integrate with the Ollama API for enhanced language model interactions.
+- [**ComfyUI GLHF**](https://github.com/fairy-root/ComfyUI-GLHF) – A node enabling seamless, interactive chat with the GLHF API.
+- [**mac-to-m3u**](https://github.com/fairy-root/mac-to-m3u) – A handy tool that automates workflow processes (and more).
+
+<!-- You can add additional project cards or widgets here if desired -->
+
+## 💻 Cybersecurity & Development Expertise
+
+- **Penetration Testing**: Expert at identifying and exploiting vulnerabilities using industry-standard tools (Burp Suite, Fiddler, HTTP Debugger).
+- **Reverse Engineering**: Skilled in deconstructing software with Radare2, Frida, and other advanced analysis tools.
+- **Software Development**: Proficient in Python, Java, NodeJS, JavaScript, and C#, bridging secure coding practices with innovative tool development.
 
 ## 🛠️ Tech Stack & Tools
-<p>
-  <img alt="Python" src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" width="40" height="40"/>
-  <img alt="NodeJS" src="https://camo.githubusercontent.com/fb04d4c58abf9467c9658076097e5c0266853fcaca3911426b675873531b50ea/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b64466338667562675333316238447356752f67697068792e676966" width="40" height="40"/>
-  <img alt="JavaScript" src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="40" height="40"/>
-  <img alt="C#" src="https://camo.githubusercontent.com/778714951cd9b5d78e576f2148df29a73a2f84cddad602518eca234511a8fa25/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966" width="40" height="40"/>
-  <!-- Add more icons accordingly -->
+
+<p align="center">
+  <img alt="Python" src="https://cdnl.iconscout.com/lottie/premium/thumb/python-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-service-application-programming-script-mobile-development-pack-design-icons-9108741.gif" width="40" height="40"/>
+  <img alt="NodeJS" src="https://assets-v2.lottiefiles.com/a/d52eadd4-1169-11ee-9084-2fbe5293b377/2KR11WluBY.gif" width="40" height="40"/>
+  <img alt="JavaScript" src="https://assets-v2.lottiefiles.com/a/edd9e57c-1175-11ee-923c-97d89504acf4/l26hXkGwri.gif" width="40" height="40"/>
+  <img alt="C#" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*JtC1CS6-OT218_QzRlLXFw.gif" width="40" height="40"/>
+  <img alt="GO" src="https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif" width="40" height="40"/>
+  <!-- Add more icons as needed -->
 </p>
 
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fairy-root&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-## 🌱 Continuous Learning
-My journey is fueled by relentless curiosity and the continuous pursuit of knowledge. Engaging in bug bounty programs and exploring new vulnerabilities are part of my regular routine to stay ahead.
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fairy-root&show_icons=true&theme=radical" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairy-root&layout=compact&theme=radical" />
+</p>
 
-## 📬 Get In Touch
-<p>
-  <a href="https://t.me/FairyRoot"><img alt="Telegram" src="https://media.tenor.com/9ZsRZ-PXPlwAAAAi/telegram-gif.gif" width="40" height="40"/></a>
-  <!-- Add more animated social icons accordingly -->
+## 🌱 Continuous Learning & Research
+
+I stay ahead in the ever-evolving world of cybersecurity by actively engaging in bug bounty programs and diving deep into new vulnerabilities. Every project is a learning opportunity that fuels my passion for innovation and secure development.
+
+## 📬 Connect With Me
+
+Let's collaborate and secure the digital world together:
+
+<p align="center">
+  <a href="https://t.me/FairyRoot">
+    <img alt="Telegram" src="https://i.pinimg.com/originals/92/7a/4f/927a4ffde0cfe320b82fd4cd99a45760.gif" width="40" height="40"/>
+  </a>
+  <!-- Add more social icons if desired -->
 </p>
 
 ![Animated Intro GIF](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
