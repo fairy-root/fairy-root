@@ -23,12 +23,12 @@ Explore some of my key projects:
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img alt="Python" src="https://cdnl.iconscout.com/lottie/premium/thumb/python-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-service-application-programming-script-mobile-development-pack-design-icons-9108741.gif" width="40" height="40"/>
-  <img alt="NodeJS" src="https://assets-v2.lottiefiles.com/a/d52eadd4-1169-11ee-9084-2fbe5293b377/2KR11WluBY.gif" width="40" height="40"/>
-  <img alt="JavaScript" src="https://assets-v2.lottiefiles.com/a/edd9e57c-1175-11ee-923c-97d89504acf4/l26hXkGwri.gif" width="40" height="40"/>
-  <img alt="C#" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*JtC1CS6-OT218_QzRlLXFw.gif" width="40" height="40"/>
-  <img alt="GO" src="https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif" width="40" height="40"/>
+<p align="left">
+  <img alt="Python" src="https://cdnl.iconscout.com/lottie/premium/thumb/python-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-service-application-programming-script-mobile-development-pack-design-icons-9108741.gif" width="80" height="80"/>
+  <img alt="NodeJS" src="https://assets-v2.lottiefiles.com/a/d52eadd4-1169-11ee-9084-2fbe5293b377/2KR11WluBY.gif" width="80" height="80"/>
+  <img alt="JavaScript" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zodzl3NWpvdXRodXZwdTc4Y3NpZDZ2eWlteGpjeGowMzY0Ymw3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="80" height="80"/>
+  <img alt="C#" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*JtC1CS6-OT218_QzRlLXFw.gif" width="80" height="80"/>
+  <img alt="GO" src="https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif" width="80" height="80"/>
   <!-- Add more icons as needed -->
 </p>
 
@@ -47,9 +47,9 @@ I stay ahead in the ever-evolving world of cybersecurity by actively engaging in
 
 Let's collaborate and secure the digital world together:
 
-<p align="center">
+<p align="left">
   <a href="https://t.me/FairyRoot">
-    <img alt="Telegram" src="https://i.pinimg.com/originals/92/7a/4f/927a4ffde0cfe320b82fd4cd99a45760.gif" width="40" height="40"/>
+    <img alt="Telegram" src="https://i.pinimg.com/originals/92/7a/4f/927a4ffde0cfe320b82fd4cd99a45760.gif" width="80" height="80"/>
   </a>
   <!-- Add more social icons if desired -->
 </p>
